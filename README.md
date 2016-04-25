@@ -5,15 +5,15 @@ Tutorial hecho por [Icaruk](http://plataoplomo.wtf/forum/index.php?/profile/5426
 Web hecha por [KillGO](http://plataoplomo.wtf/forum/index.php?/profile/43857-killgo/)
 
 
-## Carpeta _Tutorial_
+### Carpeta _Tutorial_
 
 Contiene todos los archivos *.sqf*, y la configuracion de *Notepad++* (en la sub-carpeta _Notepadd++_).
 
-## Carpeta _Web_
+### Carpeta _Web_
 
 Contiene archivos que se pueden visualizar en su navegador preferido (_.html_)
 
-## ¿Sugerencias?
+### ¿Sugerencias?
 
 Abra un [nuevo](https://github.com/Hackmastr/sqf/issues/new) problema
 
